@@ -1,7 +1,7 @@
 # Python3 virtual environment helper files
-## Don't forget to add your virtual environment folder to your .gitignore file
 ## Python virtual environment tutorial
 https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/
+## Don't forget to add your virtual environment folder to your .gitignore file
 ## requirements.txt
 #### A list of pip files to install
 #### Files can be == to a version number, >=, etc
