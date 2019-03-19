@@ -1,4 +1,5 @@
 # Python3 virtual environment helper files
+## Don't forget to add your virtual environment folder to your .gitignore file
 
 ## requirements.txt
 #### A list of pip files to install
