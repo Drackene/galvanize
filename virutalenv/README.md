@@ -16,4 +16,4 @@
 ### Needs: chmod +x run.sh
 #### Git option to pull or (add, commit, and push) before running the file
 #### Activates the python virtual environment
-#### Runs the file specified
+#### Runs the file specified (no need to add a shebang to the file specified)
